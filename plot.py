@@ -11,3 +11,4 @@ plt.plot(x, y)
 plt.xlabel('voltage(V)')
 plt.ylabel('sample(n)')
 plt.show()
+break!
