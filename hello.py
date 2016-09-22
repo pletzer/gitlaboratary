@@ -1,1 +1,1 @@
-print "Hello, New Zealand?"
+print "Hello, New Zealand!"
