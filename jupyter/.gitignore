@@ -1,0 +1,4 @@
+# Ignore folder created when running jupyter #
+##############################################
+
+.ipynb_checkpoints
